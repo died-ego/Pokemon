@@ -1,0 +1,16 @@
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\obj\Debug\net5.0\Pokemon.csprojAssemblyReference.cache
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\obj\Debug\net5.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\obj\Debug\net5.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\obj\Debug\net5.0\Pokemon.AssemblyInfo.cs
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\obj\Debug\net5.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\bin\Debug\net5.0\Pokemon.exe
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\bin\Debug\net5.0\Pokemon.deps.json
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\bin\Debug\net5.0\Pokemon.runtimeconfig.json
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\bin\Debug\net5.0\Pokemon.runtimeconfig.dev.json
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\bin\Debug\net5.0\Pokemon.dll
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\bin\Debug\net5.0\ref\Pokemon.dll
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\bin\Debug\net5.0\Pokemon.pdb
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\obj\Debug\net5.0\Pokemon.dll
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\obj\Debug\net5.0\ref\Pokemon.dll
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\obj\Debug\net5.0\Pokemon.pdb
+C:\Users\Nomade\Desktop\Codes\Consoles\Pokemon\obj\Debug\net5.0\Pokemon.genruntimeconfig.cache
